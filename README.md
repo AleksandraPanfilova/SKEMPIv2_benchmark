@@ -7,3 +7,5 @@ These needed to be re-run with "proceed" having all 20 relax structures: '1Y33',
 ### Calculation processing
 
 #### 1AK4
+
+LD483T,VD486P,HD487A,AD488M,ID491L,AD492P,MD496I variant not in the output -- M496 is kicked out of the PDB structure because of zero occupancy 
