@@ -15,8 +15,8 @@
 # columns:
 #     mean_ddG: mean Rosetta ddG values (mean((MUT-mean(WT))/2.9) kcal/mol)
 #     std_ddG: std Rosetta ddG values (std((MUT-mean(WT))/2.9) kcal/mol)
-#     mean_ddG_infc: mean InterfaceAnalyzer ddG values (mean((MUT-mean(WT))/2.9) kcal/mol)
-#     std_ddG_infc: std InterfaceAnalyzer ddG values (mean((MUT-mean(WT))/2.9) kcal/mol)
+#     mean_ddG_infc: mean InterfaceAnalyzer ddG values (mean((MUT-WT)/2.9) kcal/mol)
+#     std_ddG_infc: std InterfaceAnalyzer ddG values (std((MUT-WT)/2.9) kcal/mol)
 # --------------------
 #
 #
@@ -40,4 +40,4 @@ H166= 2.6145752229922443e-14 0.2703790345080098 -0.5716783344216531 0.0645201186
 H181A 1.142528735632164 0.0001625532830645 -0.0186843531692808 0.0011809805710596
 H181= 0.0 0.0012272503737676 -0.0053756234195332 0.0006058051091591
 H373A 1.4873563218391128 0.0089404305667367 1.1757662920678122 0.0104555244889013
-H373= 5.2273000742767785e-14 0.1737712082540603 -0.2415470029618831 0.2447191830405316
+H373= 5.2273000742767785e-14 0.1737712082540603 -0.2102121508425949 0.2004164315950306

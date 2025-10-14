@@ -15,8 +15,8 @@
 # columns:
 #     mean_ddG: mean Rosetta ddG values (mean((MUT-mean(WT))/2.9) kcal/mol)
 #     std_ddG: std Rosetta ddG values (std((MUT-mean(WT))/2.9) kcal/mol)
-#     mean_ddG_infc: mean InterfaceAnalyzer ddG values (mean((MUT-mean(WT))/2.9) kcal/mol)
-#     std_ddG_infc: std InterfaceAnalyzer ddG values (mean((MUT-mean(WT))/2.9) kcal/mol)
+#     mean_ddG_infc: mean InterfaceAnalyzer ddG values (mean((MUT-WT)/2.9) kcal/mol)
+#     std_ddG_infc: std InterfaceAnalyzer ddG values (std((MUT-WT)/2.9) kcal/mol)
 # --------------------
 #
 #
