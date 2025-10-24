@@ -356,7 +356,11 @@ Nick_outputs
 Xtal_poster.pdf
 cartesian_runs_folder
 Flex_ddG
+<<<<<<< HEAD
 Figures/
 Harper_outputs/
 SAFES_prisms
+=======
+s2536_suppl
+>>>>>>> d1d41c9c4a597ea7e2f799ad2270715b21634ce6
 __pycache__
